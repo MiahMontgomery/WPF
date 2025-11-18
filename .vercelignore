@@ -1,0 +1,15 @@
+__pycache__/
+*.py
+requirements.txt
+pyproject.toml
+uv.lock
+systemd.service
+nginx.conf
+gunicorn.conf.py
+models.py
+main.py
+app.py
+wsgi.py
+instance/
+attached_assets/
+
